@@ -1,0 +1,19 @@
+{
+  "name": "dhtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^5.5.0",
+    "cypress-mochawesome-reporter": "^1.2.0",
+    "install": "^0.13.0",
+    "mocha": "^8.2.1",
+    "mochawesome": "^6.2.1",
+    "mochawesome-merge": "^4.2.0"
+  }
+}

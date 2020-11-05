@@ -1,0 +1,19 @@
+{
+  
+  "baseUrl":"https://snipcart-react-gatsby.netlify.app",
+  "chromeWebSecurity":false,
+  "watchForFileChanges":true,
+  "supportFile": "cypress/support/index.js",
+  "reporter": "mochawesome",
+  "reporterOptions": {
+    "reportDir": "cypress/report/mochawesome-report",
+    "overwrite": true,
+    "html": true,
+    "json": false,
+    "timestamp": "mmddyyyy_HHMMss"
+ },
+  "requestTimeout":	7000,
+  "responseTimeout": 50000
+  
+}
+
