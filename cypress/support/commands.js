@@ -28,7 +28,6 @@ Cypress.Commands.add('buyProduct', () => {
 	cy.log('Buy Product')
 	cy.get('a').contains('Bow Ties').click()
 	cy.get('#Color').select('Blue Red')
-	cy.get('#buyButton').click()
 })
 
 Cypress.Commands.add('enterAddress', () => {
