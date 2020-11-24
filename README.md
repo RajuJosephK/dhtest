@@ -1,4 +1,4 @@
-# snipcart-web-and-API-Automation using cypress
+# Snipcart-web-and-API-automation using cypress
 
 ### Introduction
 * The test was written using cypress io, both the UI and API test.
