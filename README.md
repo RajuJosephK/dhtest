@@ -1,4 +1,4 @@
-# dhtest
+# snipcart-web-and-API-Automation using cypress
 
 ### Introduction
 * The test was written using cypress io, both the UI and API test.
